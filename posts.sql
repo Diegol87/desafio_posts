@@ -1,6 +1,3 @@
-DROP TABLE posts;
-CREATE TABLE posts;
-
 --Parte 1, crear tabla con el nombre "post", con los atributos id, nombre de usuario, fecha de creación, contenido y descripción
 CREATE TABLE post(
 	id SERIAL,
